@@ -11,4 +11,4 @@ this function it's same but you put in the paramts the text, the key and the ste
 ## 3. Decryptor
 this function decrypte your encrypted text, get encrypted text, key and step and output your encrypted text (into a object)
 
-> ***if you have question or idea to up this code you can contact me at my twitter, I'm open to tips for upgrade my skill***
+> ***if you have question or idea to improve  this code you can contact me at my twitter, I'm open for tips to upgrade my skill***
